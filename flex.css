@@ -1,0 +1,17 @@
+.flex{
+    display: flex;
+    
+}
+
+.p1{
+    flex: 1;
+    background-color: aqua;
+}
+.p2{
+    flex: 1;
+    background-color: aquamarine;
+}
+.p3{
+    flex: 1;
+    background-color: grey;
+}
