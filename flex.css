@@ -1,4 +1,4 @@
-.flex{
+/*.flex{
     display: flex;
     
 }
@@ -14,4 +14,31 @@
 .p3{
     flex: 1;
     background-color: grey;
+
+}*/
+
+.outerbox{
+    height: 500px;
+    background-color: aquamarine;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+   /* flex-wrap: wrap; reponsive eruku */
+   
 }
+
+.inner{
+    height: 200px;
+    width: 200px;
+    background-color: lightgreen;
+    border: 1px solid black;
+}
+
+/*.box2{
+ flex-grow: 2;
+   flex-shrink: 0;
+  
+}
+.box3{
+   flex-grow: 1;
+}*/
